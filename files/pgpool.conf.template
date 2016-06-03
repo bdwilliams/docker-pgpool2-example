@@ -1,0 +1,4 @@
+listen_addresses = '*'
+port = 9999
+enable_pool_hba = on
+
